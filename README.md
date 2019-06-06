@@ -5,6 +5,12 @@
 
 <!-- badges: start -->
 
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/vlcompose)](https://cran.r-project.org/package=vlcompose)
+[![Travis build
+status](https://travis-ci.org/vegawidget/vlcompose.svg?branch=master)](https://travis-ci.org/vegawidget/vlcompose)
 <!-- badges: end -->
 
 The goal of vlcompose is to help you to compose
