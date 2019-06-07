@@ -30,3 +30,7 @@ BugReports: https://github.com/vegawidget/vlcompose/issues
 Suggests: 
     pkgdown,
     testthat
+Imports: 
+    vegawidget (>= 0.2.0.9006)
+Remotes: 
+    vegawidget/vegawidget
